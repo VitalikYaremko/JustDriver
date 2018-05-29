@@ -1,0 +1,7 @@
+C:\Users\Vitalik\source\repos\JustDriver\JustDriver\bin\Debug\JustDriver.exe.config
+C:\Users\Vitalik\source\repos\JustDriver\JustDriver\bin\Debug\JustDriver.exe
+C:\Users\Vitalik\source\repos\JustDriver\JustDriver\bin\Debug\JustDriver.pdb
+C:\Users\Vitalik\source\repos\JustDriver\JustDriver\obj\Debug\JustDriver.csprojResolveAssemblyReference.cache
+C:\Users\Vitalik\source\repos\JustDriver\JustDriver\obj\Debug\JustDriver.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\source\repos\JustDriver\JustDriver\obj\Debug\JustDriver.exe
+C:\Users\Vitalik\source\repos\JustDriver\JustDriver\obj\Debug\JustDriver.pdb
